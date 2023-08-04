@@ -1,5 +1,4 @@
 (function(){
-    let DB;
     let idCliente;
 
     const nombreInput = document.querySelector('#nombre');

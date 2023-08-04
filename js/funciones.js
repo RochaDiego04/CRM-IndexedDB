@@ -1,3 +1,5 @@
+let DB;
+
 function conectarDB(){
     const abrirConexion = window.indexedDB.open('crm',1);
 
